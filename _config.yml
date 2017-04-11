@@ -55,7 +55,7 @@ cover_color: clear
 blog_button:
     title: 博客主页
 
-# Navigation buttons in the front page.s
+#### Navigation buttons in the front page.s
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
